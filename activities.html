@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<!--
+	Big Picture by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>THE INDIA FOUNDATION</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.poptrox.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/jquery.scrollex.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
+			<link rel="stylesheet" href="css/style-normal.css" />
+		</noscript>
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+
+				<!-- Logo -->
+					<h1 id="logo"><a href="#intro">The India Foundation</a></h1>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="#intro">The India Foundation</a></li>
+							<li><a href="#one">What We Do</a></li>
+							<li><a href="#two">Who Are We</a></li>
+							<li><a href="#work">Serving The Society</a></li>
+							<li><a href="#contact">Contact</a></li>
+						</ul>
+					</nav>
+
+			</header>
+
+		<!-- One -->
+			<section id="one" class="main style2 right dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>What I Do</h2>
+					</header>
+					<p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.
+					Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis arcu,
+					id varius justo euismod in. Curabitur egestas consectetur magna.</p>
+				</div>
+				<a href="#two" class="button style2 down anchored">Next</a>
+			</section>
+			
+		<script type="text/javascript">  
+			$('document').ready(function() {
+				
+				sessionStorage.setItem("text_count", 0);
+				var display_text = setInterval(setText, 1500);
+				
+				function setText() {
+					//var bkg_img = document.getElementsByClassName("page-header");
+					//bkg_img[0].style.backgroundImage = "url('')";
+					var text_count = sessionStorage.getItem("text_count");
+					text_count = text_count % 4;
+					switch (Number(text_count))
+					{
+						case 0:
+							//document.getElementById("welcome").innerHTML="<p>W</p>";
+							document.getElementById("serving").innerHTML="<h2 style='text-align: center;'>SERVING</h2>";
+							document.getElementById("logo_img").innerHTML='<img src="images/logo.png" style="width:30%; class="img-responsive center-block">';
+							break;
+						
+						case 1:
+							document.getElementById("serving").innerHTML="<h2 style='text-align: center;'>SERVING THE</h2>";
+							document.getElementById("logo_img").innerHTML='<img src="images/logo.png" style="width:30%; class="img-responsive center-block">';
+							break;
+						
+						case 2:
+							document.getElementById("serving").innerHTML="<h2 style='text-align: center;'>SERVING THE SOCIETY</h2>";
+							document.getElementById("logo_img").innerHTML='<img src="images/logo.png" style="width:30%; class="img-responsive center-block">';
+							break;
+							
+						case 3:
+							document.getElementById("serving").innerHTML="<h2 style='text-align: center;>SERVING THE SOCIETY</h2>";
+							document.getElementById("logo_img").innerHTML='<img src="images/logo.png" style="width:30%; class="img-responsive center-block">';
+							break;
+					}
+					text_count = text_count + 1;
+					sessionStorage.setItem("text_count", text_count);
+				}
+			})
+		</script>
+	</body>
+</html>
