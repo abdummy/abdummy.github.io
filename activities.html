@@ -5,27 +5,40 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	<head>
-		<title>THE INDIA FOUNDATION</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-		<script src="js/jquery.min.js"></script>
-		<script src="js/jquery.poptrox.min.js"></script>
-		<script src="js/jquery.scrolly.min.js"></script>
-		<script src="js/jquery.scrollex.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-wide.css" />
-			<link rel="stylesheet" href="css/style-normal.css" />
-		</noscript>
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-	</head>
+<head>
+	<title>THE INDIA FOUNDATION (IF)</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" integrity="sha512-nhY06wKras39lb9lRO76J4397CH1XpRSLfLJSftTeo3+q2vP7PaebILH9TqH+GRpnOhfAGjuYMVmVTOZJ+682w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.poptrox/2.5.0/jquery.poptrox.min.js" integrity="sha512-99AM6PErJgj64lpfsIL38qAaskIGBFRUseWUBRtOCjArpkBgkqPfWtZP6h2TR6EEMWefD2AkFUYhold3lJVW3A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="js/jquery.scrolly.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.scrollex/0.2.0/jquery.scrollex.min.js" integrity="sha512-VvXENygJUb8Uc2iIwXcK/Wt9cwnlTAITFxSF49J3X0+g1q/i4NZiBvZU8JK7bXsb+7dOxD9FuXtYvNOnS4pVVg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/skel/2.1.0/skel.min.js" integrity="sha512-Y1+HQy3oo14LchQQxaoilA7zuqIpQk22+IC27m8tcZvmVdZTdYWG32yu7iguYDNtuJ8TsTHcAxiIp3EfI8NzzA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="js/init.js"></script>
+	<script src="js/functions.js"></script>
+
+	<link rel="shortcut icon" href="favicon.webp">
+
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+	<link rel="stylesheet" type="text/css" href="slick/slick.css"/>
+	<link rel="stylesheet" type="text/css" href="slick/slick-theme.css"/>
+
+	<link rel="stylesheet" href="css/skel.css" />
+	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="css/style-wide.css" />
+	<link rel="stylesheet" href="css/style-normal.css" />
+
+	<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+</head>
 	<body>
 
 		<!-- Header -->
@@ -47,57 +60,17 @@
 
 			</header>
 
-		<!-- One -->
-			<section id="one" class="main style2 right dark fullscreen">
-				<div class="content box style2">
-					<header>
-						<h2>What I Do</h2>
-					</header>
-					<p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.
-					Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis arcu,
-					id varius justo euismod in. Curabitur egestas consectetur magna.</p>
-				</div>
-				<a href="#two" class="button style2 down anchored">Next</a>
-			</section>
-			
-		<script type="text/javascript">  
-			$('document').ready(function() {
-				
-				sessionStorage.setItem("text_count", 0);
-				var display_text = setInterval(setText, 1500);
-				
-				function setText() {
-					//var bkg_img = document.getElementsByClassName("page-header");
-					//bkg_img[0].style.backgroundImage = "url('')";
-					var text_count = sessionStorage.getItem("text_count");
-					text_count = text_count % 4;
-					switch (Number(text_count))
-					{
-						case 0:
-							//document.getElementById("welcome").innerHTML="<p>W</p>";
-							document.getElementById("serving").innerHTML="<h2 style='text-align: center;'>SERVING</h2>";
-							document.getElementById("logo_img").innerHTML='<img src="images/logo.png" style="width:30%; class="img-responsive center-block">';
-							break;
-						
-						case 1:
-							document.getElementById("serving").innerHTML="<h2 style='text-align: center;'>SERVING THE</h2>";
-							document.getElementById("logo_img").innerHTML='<img src="images/logo.png" style="width:30%; class="img-responsive center-block">';
-							break;
-						
-						case 2:
-							document.getElementById("serving").innerHTML="<h2 style='text-align: center;'>SERVING THE SOCIETY</h2>";
-							document.getElementById("logo_img").innerHTML='<img src="images/logo.png" style="width:30%; class="img-responsive center-block">';
-							break;
-							
-						case 3:
-							document.getElementById("serving").innerHTML="<h2 style='text-align: center;>SERVING THE SOCIETY</h2>";
-							document.getElementById("logo_img").innerHTML='<img src="images/logo.png" style="width:30%; class="img-responsive center-block">';
-							break;
-					}
-					text_count = text_count + 1;
-					sessionStorage.setItem("text_count", text_count);
-				}
-			})
-		</script>
+	<section>
+		<ul class="nav nav-tabs">
+			<li role="presentation" class="active"><a href="#">Home</a></li>
+			<li role="presentation"><a href="#">Profile</a></li>
+			<li role="presentation"><a href="#">Messages</a></li>
+		</ul>
+	</section>
+
+
 	</body>
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="htts://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 </html>
