@@ -1,0 +1,52 @@
+{
+  "years": [2022,2021,2020,2019,2018,2017],
+  "2022": [
+    {
+      "images": [
+        {
+          "title": "Meeting Ambassador Venu Rajamon",
+          "path": "images/2022/ambasaddor_meet_march/1.webp"
+        },
+        {
+          "title": "Meeting Ambassador Venu Rajamon",
+          "path": "images/2022/ambasaddor_meet_march/2.webp"
+        },
+        {
+          "title": "Meeting Ambassador Venu Rajamon",
+          "path": "images/2022/ambasaddor_meet_march/3.webp"
+        },
+        {
+          "title": "Meeting Ambassador Venu Rajamon",
+          "path": "images/2022/ambasaddor_meet_march/4.webp"
+        }
+      ]
+    }
+  ],
+  "2021": [],
+  "2020": [],
+  "2019": [],
+  "2018": [],
+  "2017": [
+    {
+      "images" : [
+        {
+          "title": "Diwali Celebrations in Utrecht - 15th October 2017",
+          "path": "images/Diwali_Celebrations_in_Utrecht/cover.webp"
+        },
+        {
+          "title": "Diwali Celebrations in Utrecht - 15th October 2017",
+          "path": "images/Diwali_Celebrations_in_Utrecht/DCiU_01.webp"
+        },
+        {
+          "title": "Diwali Celebrations in Utrecht - 15th October 2017",
+          "path": "images/Diwali_Celebrations_in_Utrecht/DCiU_01.webp"
+        },
+        {
+          "title": "Diwali Celebrations in Utrecht - 15th October 2017",
+          "path": "images/Diwali_Celebrations_in_Utrecht/DCiU_01.webp"
+        }
+      ]
+    }
+  ]
+
+}
