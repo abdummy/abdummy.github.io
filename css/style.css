@@ -171,7 +171,7 @@
 				top: 0;
 				width: 100%;
 				height: 100%;
-				background: url('images/overlay.png');
+				background: url('images/overlay.webp');
 			}
 
 			.image img {
@@ -843,7 +843,7 @@
 
 	#curtain {
 
-		background: url('../images/curtain.png');
+		background: url('../images/curtain.webp');
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: center center;
@@ -856,14 +856,14 @@
 
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro_bkg.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro_bkg.webp');
 		background-size: 66vw 44vw, 256px 256px, 394px 538px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center 160px, top left, top left;
 		background-repeat: no-repeat, repeat, repeat;
 
 		/*
-		background: url('../images/intro.png');
+		background: url('../images/intro.webp');
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: bottom center;
@@ -877,12 +877,12 @@
 
 	#one {
 		/*
-		background: url('images/overlay.png'), url('../images/one.png');
+		background: url('images/overlay.webp'), url('../images/one.webp');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 		*/
-		background: url('../images/one.png');
+		background: url('../images/one.webp');
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: center center;
@@ -894,12 +894,12 @@
 
 	#two {
 		/*
-		background: url('images/overlay.png'), url('../images/two.png');
+		background: url('images/overlay.webp'), url('../images/two.webp');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 		*/
-		background: url('../images/two.png');
+		background: url('../images/two.webp');
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: center center;
@@ -912,7 +912,7 @@
 
 	#service {
 
-		background: url('images/overlay.png');
+		background: url('images/overlay.webp');
 		background-size: 256px 256px;
 		background-attachment: fixed;
 		background-position: top left;
@@ -926,7 +926,7 @@
 
 	#pm_modi {
 		/*
-		background: url('images/overlay.png'), url('../images/two.png');
+		background: url('images/overlay.webp'), url('../images/two.webp');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -1042,7 +1042,7 @@
 
 	#about {
 
-		background: url('../images/bkg3.png'), url('images/overlay.png'), url('../images/about_bkg.png');
+		background: url('../images/bkg3.webp'), url('images/overlay.webp'), url('../images/about_bkg.webp');
 		background-size: 30vw 45vw, 256px 256px, 202px 288px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, top left;
@@ -1162,7 +1162,7 @@
 @media (min-width: 1250px){
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro_bkg.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro_bkg.webp');
 		background-size: 45vw 30vw, 256px 256px, 394px 538px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: bottom center, top left, top left;
@@ -1173,7 +1173,7 @@
 @media (min-width: 1200px) and (max-width: 1250px){
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro_bkg.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro_bkg.webp');
 		background-size: 66vw 44vw, 256px 256px, 394px 538px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: bottom center, top left, top left;
@@ -1184,7 +1184,7 @@
 @media (min-width: 1200px) and (max-width: 1250px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro_bkg.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro_bkg.webp');
 		background-size: 75vw 50vw, 256px 256px, 394px 538px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, top left;
@@ -1195,7 +1195,7 @@
 @media (min-width: 1150px) and (max-width: 1200px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro_bkg.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro_bkg.webp');
 		background-size: 75vw 50vw, 256px 256px, 394px 538px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, top left;
@@ -1206,7 +1206,7 @@
 @media (min-width: 1100px) and (max-width: 1150px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro_bkg.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro_bkg.webp');
 		background-size: 81vw 54vw, 256px 256px, 394px 538px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, top left;
@@ -1217,7 +1217,7 @@
 @media (min-width: 1050px) and (max-width: 1100px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro_bkg.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro_bkg.webp');
 		background-size: 90vw 60vw, 256px 256px, 394px 538px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, top left;
@@ -1228,7 +1228,7 @@
 @media (min-width: 1000px) and (max-width: 1050px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro_bkg.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro_bkg.webp');
 		background-size: 93vw 62vw, 256px 256px, 394px 538px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, top left;
@@ -1239,7 +1239,7 @@
 @media (min-width: 950px) and (max-width: 1000px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro_bkg.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro_bkg.webp');
 		background-size: 96vw 64vw, 256px 256px, cover ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, center center;
@@ -1250,7 +1250,7 @@
 @media (min-width: 900px) and (max-width: 950px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro_bkg.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro_bkg.webp');
 		background-size: 99vw 66vw, 256px 256px, cover ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, center center;
@@ -1261,7 +1261,7 @@
 @media (min-width: 800px){
 	#about {
 
-		background: url('../images/bkg3.png'), url('images/overlay.png'), url('../images/about_bkg.png');
+		background: url('../images/bkg3.webp'), url('images/overlay.webp'), url('../images/about_bkg.webp');
 		background-size: 32% 90%, 256px 256px, 202px 288px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, top left;
@@ -1272,7 +1272,7 @@
 @media (min-width: 700px) and (max-width: 800px) {
 	#about {
 
-		background: url('../images/bkg3.png'), url('images/overlay.png'), url('../images/about_bkg.png');
+		background: url('../images/bkg3.webp'), url('images/overlay.webp'), url('../images/about_bkg.webp');
 		background-size: 40vw 60vw, 256px 256px, 202px 288px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, top left;
@@ -1283,7 +1283,7 @@
 @media (min-width: 600px) and (max-width: 700px) {
 	#about {
 
-		background: url('../images/bkg3.png'), url('images/overlay.png'), url('../images/about_bkg.png');
+		background: url('../images/bkg3.webp'), url('images/overlay.webp'), url('../images/about_bkg.webp');
 		background-size: 46vw 69vw, 256px 256px, 202px 288px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, top left;
@@ -1294,7 +1294,7 @@
 @media (min-width: 480px) and (max-width: 600px) {
 	#about {
 
-		background: url('../images/bkg3.png'), url('images/overlay.png'), url('../images/about_bkg.png');
+		background: url('../images/bkg3.webp'), url('images/overlay.webp'), url('../images/about_bkg.webp');
 		background-size: 50vw 75vw, 256px 256px, 202px 288px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, top left;
@@ -1306,7 +1306,7 @@
 @media (min-width: 400px) and (max-width: 480px) {
 	#about {
 
-		background: url('../images/bkg3.png'), url('images/overlay.png'), url('../images/about_bkg.png');
+		background: url('../images/bkg3.webp'), url('images/overlay.webp'), url('../images/about_bkg.webp');
 		background-size: 80vw 120vw, 256px 256px, 202px 288px ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: center center, top left, top left;
@@ -1317,7 +1317,7 @@
 @media (max-width: 900px) {
 	#intro {
 
-		background: url('../images/intro2.png');
+		background: url('../images/intro2.webp');
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: center center;
@@ -1328,7 +1328,7 @@
 @media (max-width: 400px) {
 	#about {
 
-		background: url('../images/bkg3.png');
+		background: url('../images/bkg3.webp');
 		background-size: cover;
 		background-attachment: fixed;
 		background-position: center center;
@@ -1340,7 +1340,7 @@
 @media (min-width: 1000px) and (max-width: 1050px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro2.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro2.webp');
 		background-size: 90vw 60vw, 256px 256px, cover ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: bottom center, top left, center center;
@@ -1351,7 +1351,7 @@
 @media (min-width: 950px) and (max-width: 1000px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro2.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro2.webp');
 		background-size: 96vw 64vw, 256px 256px, cover ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: bottom center, top left, center center;
@@ -1362,7 +1362,7 @@
 @media (min-width: 900px) and (max-width: 950px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro2.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro2.webp');
 		background-size: 99vw 66vw, 256px 256px, cover ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: bottom center, top left, center center;
@@ -1373,7 +1373,7 @@
 @media (min-width: 850px) and (max-width: 900px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro2.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro2.webp');
 		background-size: 105vw 70vw, 256px 256px, cover ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: bottom center, top left, center center;
@@ -1384,7 +1384,7 @@
 @media (min-width: 800px) and (max-width: 850px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro2.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro2.webp');
 		background-size: 112vw 75vw, 256px 256px, cover ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: bottom center, top left, center center;
@@ -1395,7 +1395,7 @@
 @media (min-width: 750px) and (max-width: 800px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro2.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro2.webp');
 		background-size: 105vw 70vw, 256px 256px, cover ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: bottom center, top left, center center;
@@ -1406,7 +1406,7 @@
 @media (min-width: 700px) and (max-width: 750px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro2.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro2.webp');
 		background-size: 90vw 60vw, 256px 256px, cover ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: bottom center, top left, center center;
@@ -1417,7 +1417,7 @@
 @media (min-width: 650px) and (max-width: 700px) {
 	#intro {
 
-		background: url('../images/intro2.png'), url('images/overlay.png'), url('../images/intro2.png');
+		background: url('../images/intro2.webp'), url('images/overlay.webp'), url('../images/intro2.webp');
 		background-size: 90vw 60vw, 256px 256px, cover ;
 		background-attachment: fixed, fixed, fixed;
 		background-position: bottom center, top left, center center;
