@@ -94,7 +94,7 @@
 		var globalJsonData;
 			$('document').ready(function() {
 
-				$.getJSON("activities.json?t="+Date.now(),function(jsonData){
+				$.getJSON("participation.json?t="+Date.now(),function(jsonData){
 					console.log(jsonData)
 					globalJsonData = jsonData;
 					jsonData.years.forEach((item,index)=>{
