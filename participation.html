@@ -1,5 +1,10 @@
 <!DOCTYPE HTML>
 <html>
+<style type="text/css">
+.participation{
+
+}
+</style>
 <head>
     <title>THE INDIA FOUNDATION (IF)</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
@@ -87,9 +92,8 @@
 
 
     </div>
-    <div id="galleryNews"></div>
-
-</section>
+    <div id="galleryNews">
+</div>
 <script type="text/javascript">
 		var globalJsonData;
 			$('document').ready(function() {
@@ -109,33 +113,76 @@
 				});
 
 		function eventPopulate(year){
-			console.log(year)
+			console.log("populating "+ year)
 
 			$('#galleryNews').empty();
 
 				globalJsonData[year].forEach((event,eventIndex)=>{
-					$('#galleryNews').append('<div class="container 75% gallery"><div class="row 0% images" id="eventRow'+year+'_'+eventIndex+'"></div></div>')
-							event.images.forEach((image,imageIndex)=>{
-								$('#eventRow'+year+'_'+eventIndex).append(
-									'<div class="6u">'+
-									'<a href="'+image.path+'" class="image fit'+(imageIndex==0?'from-left':'from-right')+'" '+(imageIndex==0||imageIndex==1?'':'style="display:none;"')+'>'+
-									'<img src="'+image.path+'" title="'+image.title+'" alt="" /></a></div>')
-								});
-							});
 
-      $('.gallery').poptrox({
-				baseZIndex: 10001,
-				useBodyOverflow: false,
-				usePopupEasyClose: false,
-				overlayColor: '#1f2328',
-				overlayOpacity: 0.65,
-				usePopupDefaultStyling: false,
-				usePopupCaption: true,
-				popupLoaderText: '',
-				windowMargin: (skel.isActive('mobile') ? 5 : 50),
-				usePopupNav: true
-			});
+                    
+                    mainImageStr= event.mainImage!==undefined?
+                                        '<div class="col-md-12 text-center">'+
+                                          '<img src="'+event.mainImage.path+'" class="img-responsive center-block">'+
+                                        '</div>'+
+                                        '<div class="col-md-12 text-center"><h3>'+event.mainImage.title+'</h3></div>'
+                                    :'';
+
+                    $('#galleryNews').append('<section  class="row">'+
+                                        '<div class="col-md-12 text-center">'+
+                                            '<h2>'+event.header+'</h2>'+
+                                            '<h3>'+event.location+'<h3>'+
+                                            '<h4>'+event.date+'</h4>'+mainImageStr+
+                                            '<div id="participation'+event.year+'_'+eventIndex+'"></div>'
+
+                                            +'</div>'+
+                                    '</section>');
+
+          event.imagePairs.forEach((imagePair,imageIndex)=>{
+            if(imagePair.left!==undefined)
+            {
+                leftImageString = leftImageGet(imagePair,imageIndex);
+                $("#participation"+event.year+"_"+eventIndex)
+                .append(leftImageString);
+            }
+            if(imagePair.right!==undefined)
+            {
+                rightImageString = rightImageGet(imagePair,imageIndex);
+                $("#participation"+event.year+"_"+eventIndex)
+                .append(rightImageString);
+            }
+              
+          });
+
+            	});
+
+
+
 		}
+
+        function leftImageGet(imagePair,imageIndex){
+            return '<div class="col-md-6 text-center">'+
+                          '<div class="">'+
+                          '<p style="line-height:50%">&nbsp;</p>'+
+                              '<a href>'+
+                                '<img src="'+imagePair.left.path+'" class="img-responsive center-block" style="width:75%">'+
+                              '</a>'+
+                              '<h6 style="font-size: 70% !important; line-height: 130%">'+imagePair.left.title+'</h6>'+
+                            '</div>'+
+                          '</div>';
+
+        }
+        function rightImageGet(imagePair,imageIndex){
+
+            return '<div class="col-md-6 text-center">'+
+                              '<div class="">'+
+                              '<p style="line-height:50%">&nbsp;</p>'+
+                                  '<a href">'+
+                                      '<img src="'+imagePair.right.path+'" class="img-responsive center-block" style="width:75%">'+
+                                  '</a>'+
+                                  '<h6 style="font-size: 70% !important; line-height: 130%">'+imagePair.right.title+'</h6>'+
+                              '</div>'+
+                          '</div>';
+        }
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.js"
         integrity="sha512-An4a3FEMyR5BbO9CRQQqgsBscxjM7uNNmccUSESNVtWn53EWx5B9oO7RVnPvPG6EcYcYPp0Gv3i/QQ4KUzB5WA=="

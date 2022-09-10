@@ -1,18 +1,648 @@
 {
    "years":[
-      {"year":2022,"title":"Events are coming soon"},
-      {"year":2021,"title":""},
-      {"year":2020,"title":""},
-      {"year":2019,"title":""},
-      {"year":2018,"title":""},
-      {"year":2017,"title":""}   ],
-
-      "2022":[
-      ],
-      "2021":[],
-      "2020":[],
-      "2019":[],
-      "2018":[],
-      "2017":[]
-
+      {
+         "year":2022,
+         "title":"Events are coming soon"
+      },
+      {
+         "year":2021,
+         "title":""
+      },
+      {
+         "year":2020,
+         "title":""
+      },
+      {
+         "year":2019,
+         "title":""
+      },
+      {
+         "year":2018,
+         "title":""
+      },
+      {
+         "year":2017,
+         "title":""
+      }
+   ],
+   "2022":[
+      {
+         "header":"Opening of International Commission on Missing Persons (ICMP)",
+         "location":"Headquarters   and   state-of-the-art   DNA   laboratory The Hague",
+         "date":"Tuesday, 24th October 2017",
+         "mainImage":{
+            "path":"images/icmp/icmp_new.webp",
+            "title":"Mr. R.D.D. Gurnani with Hon'ble Minister Mr. Bert Koenders, Minister of Foreign Affairs of the Netherlands"
+         },
+         "imagePairs":[
+            
+         ]
+      },
+      {
+         "header":"Opening of International Commission on Missing Persons (ICMP)",
+         "location":"Headquarters   and   state-of-the-art   DNA   laboratory The Hague",
+         "date":"Tuesday, 24th October 2017",
+         "mainImage":{
+            "path":"images/icmp/icmp_new.webp",
+            "title":"Mr. R.D.D. Gurnani with Hon'ble Minister Mr. Bert Koenders, Minister of Foreign Affairs of the Netherlands"
+         },
+         "imagePairs":[
+            
+         ]
+      }
+   ],
+   "2021":[
+      
+   ],
+   "2020":[
+      
+   ],
+   "2019":[
+      
+   ],
+   "2018":[
+      {
+         "header":"Judge Dalveer Bhandari of the International Court of Justice re-elected for the term 2018-2026",
+         "location":"Peace Palace, The &nbsp; Hague",
+         "date":"Wednesday, January 10th 2018",
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/RojDB_18/img01.webp",
+                  "title":"H.E. Mr. Venu Rajamony,Ambassador of India,Addressing the audience"
+               },
+               "right":{
+                  "path":"images/RojDB_18/img02.webp",
+                  "title":"Judge Dalveer Bhandari,Addressing the audience"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/RojDB_18/img03.webp",
+                  "title":"Mr. R.D.D. Gurnani congratulating Judge Dalveer Bhandari"
+               },
+               "right":{
+                  "path":"images/RojDB_18/img04.webp",
+                  "title":"Mr. Wahid Saleh, Hon\"ble Mr. Rabin Baldewsingh,Deputy Mayor of The Hague, H. E. Mr. A.M.J. Sadiq, Ambassador of Sri Lanka,Mr. R.D.D. Gurnani and Mr. Vinod Sehdev"
+               }
+            }
+         ]
+      },
+      {
+         "header":"Planting a tree to commemorate the 70th Death Anniversary of Mahatma Gandhi",
+         "location":"Peace Palace,The &nbsp; Hague",
+         "date":"Tuesday,January 30th 2018",
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/Plant_tree_18/img01.webp",
+                  "title":"Hon\"ble Mr. Rabin Baldewsingh,Deputy Mayor of The Hague,Welcoming the audience"
+               },
+               "right":{
+                  "path":"images/Plant_tree_18/img02.webp",
+                  "title":"H.E. Mr. Venu Rajamony, Ambassador of India,Addressing the audience"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/Plant_tree_18/img03.webp",
+                  "title":"Hon\"ble Mr. Rabin Baldewsingh, Deputy Mayor of The Hague,H.E. Mr. Venu Rajamony, Ambassador of India and Mr. Ram Lakhina planting the tree"
+               },
+               "right":{
+                  "path":"images/Plant_tree_18/img04.webp",
+                  "title":"Planting of the tree by representatives of the India Diaspora and the Surinamese Hindustani Community"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/Plant_tree_18/img06.webp",
+                  "title":"Mr. R.D.D. Gurnani with Hon\"ble Mr. Rabin Baldewsingh Deputy Mayor of The Hague"
+               },
+               "right":{
+                  "path":"images/Plant_tree_18/img05.webp",
+                  "title":"A group photograph in the beautiful garden of the Peace Palace"
+               }
+            }
+         ]
+      },
+      {
+         "header":"Farewell Reception (Afscheidsreceptie) of Mr. Kees Geldof and Mr. Paulus Jansen",
+         "location":"Deputy Mayor\"s of Utrecht ,Spoorwegmuseum, Utrecht",
+         "date":"Friday, June 8th 2018",
+         "mainImage":{
+            "path":"images/Farewell_Reception_18/frodmou_03.webp"
+         },
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/Farewell_Reception_18/frodmou_01.webp",
+                  "title":"Mr. R.D.D. Gurnani, thanking Hon\"ble Mr. Kees Geldof, Deputy Mayor of Utrecht for all his contribution towards Utrecht and The India Foundation (IF), especially his efforts in establishing the statue of Mahatma Gandhi in Utrecht"
+               },
+               "right":{
+                  "path":"images/Farewell_Reception_18/frodmou_02.webp",
+                  "title":"Mr. R.D.D. Gurnani, thanking Hon'ble Mr. Paulus Jansen, Deputy Mayor of Utrecht, for all his dedication towards Utrecht"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/Farewell_Reception_18/frodmou_04.webp",
+                  "title":"With Hon'ble Ms. Lot van Hooijdonk, Deputy Mayor of Utrecht, at the farewell reception"
+               },
+               "right":{
+                  "path":"images/Farewell_Reception_18/frodmou_05.webp",
+                  "title":"With Hon'ble Mr. Jan van Zanen, Mayor of Utrecht, at the farewell reception"
+               }
+            }
+         ]
+      },
+      {
+         "header":"Celebrating India\"s 72nd Independence Day",
+         "location":"The India House,The Hague",
+         "date":"Wednesday, 15th August 2018",
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/Independance_Day_18/ID2018_01.webp",
+                  "title":"Celebrating India\"s 72nd Independence Day"
+               },
+               "right":{
+                  "path":"images/Independance_Day_18/ID2018_02.webp",
+                  "title":"Celebrating India's 72nd Independence Day"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/Independance_Day_18/ID2018_03.webp",
+                  "title":"Celebrating India\"s 72nd Independence Day"
+               },
+               "right":{
+                  "path":"images/Independance_Day_18/ID2018_04.webp",
+                  "title":"Mr. R.D.D. Gurnani with H.E. Mr. Venu Rajamony, Ambassador of India and Hon\"ble Mr. Jan van Zanen Mayor of Utrecht"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/Independance_Day_18/ID2018_05.webp",
+                  "title":"Mr. R.D.D. Gurnani with Hon'ble Mr. Frank Koen, Mayor of Wassenaar and Mr. Dowlatram Ramlal, Chairman, Stichting Gandhi Non Violence Foundation (GNV)"
+               },
+               "right":{
+                  "path":"images/Independance_Day_18/ID2018_06.webp",
+                  "title":"Mr. R.D.D. Gurnani with Hon'ble Mr. Rabin Baldewsingh,former Deputy Mayor of The Hague"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/Independance_Day_18/ID2018_07.webp",
+                  "title":"Mr. Manohar Gangesh, Counsellor, Embassy of India and Mrs. Gangesh "
+               },
+               "right":{
+                  "path":"images/Independance_Day_18/ID2018_08.webp",
+                  "title":"Drs. Marianne Oort ,Mrs. Nimi Madan and Mrs. Soni Gurnani"
+               }
+            }
+         ]
+      },
+      {
+         "header":"Paying respects  to India\"s beloved leader",
+         "location":"Embassy of India,The Hague",
+         "date":"Tuesday, 21st August 2018",
+         "mainImage":{
+            "path":"images/prtibl_18/prtibl2018_01.webp"
+         },
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/prtibl_18/prtibl2018_02.webp",
+                  "title":"Mr. R.D.D. Gurnani, signing the condolence book"
+               },
+               "right":{
+                  "path":"images/prtibl_18/prtibl2018_03.webp",
+                  "title":"Mr. R.D.D. Gurnani, signing the condolence book"
+               }
+            }
+         ]
+      },
+      {
+         "header":"India-Netherlands collaboration in Healthcare including Ayurveda",
+         "location":"Holiday Inn, Leiden",
+         "date":"Monday, 3rd September 2018",
+         "mainImage":{
+            "path":"images/AYUSH_2018/AYUSH_2018_03.webp",
+            "title":"Hon\"ble Minister Mr. Bruno Bruins for Medical Care & Sports, inaugurates the seminar “India-Netherlands Collaboration in Healthcare including Ayurveda with the traditional lighting of the lamp"
+         },
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/AYUSH_2018/AYUSH_2018_01.webp",
+                  "title":"Hon\"ble Minister Mr. Shripad Yesso Naik for AYUSH (Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homoeopathy),lighting the traditional lamp"
+               },
+               "right":{
+                  "path":"images/AYUSH_2018/AYUSH_2018_02.webp",
+                  "title":"H.E. Mr. Venu Rajamony, Ambassador of India, lighting the traditional lamp"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/AYUSH_2018/AYUSH_2018_04.webp",
+                  "title":"Hon\"ble Minister Mr. Bruno Bruins for Medical Care & Sports, addressing the audience"
+               },
+               "right":{
+                  "path":"images/AYUSH_2018/AYUSH_2018_05.webp",
+                  "title":"Mr. R.D.D. Gurnani with Hon\"ble Minister Mr. Shripad Yesso Naik,for AYUSH (Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homoeopathy)"
+               }
+            }
+         ]
+      },
+      {
+         "header":"Meet and Greet with Hon\"ble Minister Mrs. Harsimrat Kaur Badal for Food Processing Industries",
+         "location":"Amity International School,Amstelveen",
+         "date":"Wednesday, 5th September 2018",
+         "mainImage":{
+            "path":"images/MfFPI_2018/MfFPI_2018_03.webp",
+            "title":"Meet and Greet at Amity International School, Amstelveen"
+         },
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/MfFPI_2018/MfFPI_2018_01.webp",
+                  "title":"H.E. Mr. Venu Rajamony,Ambassador of India ,addressing the audience"
+               },
+               "right":{
+                  "path":"images/MfFPI_2018/MfFPI_2018_02.webp",
+                  "title":"Hon'ble Minister Mrs. Harsimrat Kaur Badal for Food Processing Industries,addressing the audience"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/MfFPI_2018/MfFPI_2018_04.webp",
+                  "title":"Mr. R.D.D. Gurnani with Hon\"ble Mr. Frank Berkhout, Deputy Mayor of Amstelveen and H.E. Mr. Sheikh Mohammed Belal, Ambassador of Bangladesh"
+               },
+               "right":{
+                  "path":"images/MfFPI_2018/MfFPI_2018_05.webp",
+                  "title":"Mr. R.D.D. Gurnani with Hon\"ble Minister Mrs. Harsimrat Kaur Badal,for Food Processing Industries"
+               }
+            }
+         ]
+      },
+      {
+         "header":"Meeting Indian Film Actor Mr. Arjun Rampal",
+         "location":"Embassy of India,The Hague",
+         "date":"Thursday, 13th September 2018",
+         "mainImage":{
+            "path":"images/MIFA_2018/MIFA_2018_01.webp",
+            "title":"Mr. R.D.D. Gurnani with Indian Film Actor Mr. Arjun Rampal"
+         },
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/MIFA_2018/MIFA_2018_02.webp",
+                  "title":"Discussing the program of Follow the Mahatma and the Gandhi March for Non-Violence which is to take place on 30th September 2018"
+               }
+            }
+         ]
+      },
+      {
+         "header":"KLM OPEN",
+         "location":"Finals in the Netherlands, Spijk",
+         "date":"Sunday, 16th September 2018",
+         "mainImage":{
+            "path":"images/KLM_Open_2018/KLM_Open_2018_01.webp",
+            "title":"KLM OPEN"
+         },
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/KLM_Open_2018/KLM_Open_2018_02.webp",
+                  "title":"Mr. R.D.D. Gurnani with Mr. Alok Sawhney,Head of Continental Europe Jet Airways with flight attendant Ms. Minakshi Jamwal (L) and Ms. Anita Nagpal (R) at Jet Airways Skybox"
+               },
+               "right":{
+                  "path":"images/KLM_Open_2018/KLM_Open_2018_03.webp",
+                  "title":"Mr. R.D.D. Gurnani with H.E. Mr. Venu Rajamony, Ambassador of India and H.E. Mr. Vusi Bruce Koloane ,Ambassador of South Africa at Jet Airways Skybox (Hole 14)"
+               }
+            }
+         ]
+      },
+      {
+         "header":"International Day of Non-Violence ,Gandhi March",
+         "location":"Peace Palace to Grote Kerk ,The Hague",
+         "date":"Sunday, 30th September 2018",
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/IDoNVGM_18/IDoNVGM_18 - 01.webp",
+                  "title":"Welcome address by H.E. Mr. Venu Rajamony, Ambassador of India to the Netherlands at Peace Palace,The Hague"
+               },
+               "right":{
+                  "path":"images/IDoNVGM_18/IDoNVGM_18 - 02.webp",
+                  "title":"group photograph with Ambassadors and the Board Members of Stichting Gandhi Non Violence Foundation (GNV)"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/IDoNVGM_18/IDoNVGM_18 - 03.webp",
+                  "title":"Mr. R.D.D. Gurnani with Sri M"
+               },
+               "right":{
+                  "path":"images/IDoNVGM_18/IDoNVGM_18 - 04.webp",
+                  "title":"Getting ready for the Gandhi March from Peace Palace to Grote Kerk"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/IDoNVGM_18/IDoNVGM_18 - 05.webp",
+                  "title":"Gandhi March with two young Gandhi's"
+               },
+               "right":{
+                  "path":"images/IDoNVGM_18/IDoNVGM_18 - 06.webp",
+                  "title":"Mr. R.D.D. Gurnani, Hon\"ble Ms. Kavita Parbhudayal, Deputy Mayor of The Hague, Mr. Dowlatram Ramlal, Chairman, Stichting Gandhi Non Violence Foundation (GNV) and H.E. Mr. Venu Rajamony, Ambassador of India at the Gandhi March"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/IDoNVGM_18/IDoNVGM_18 - 07.webp",
+                  "title":"At the Grote Kerk"
+               },
+               "right":{
+                  "path":"images/IDoNVGM_18/IDoNVGM_18 - 08.webp",
+                  "title":"A group photograph with Ambassadors, Board Members of Stichting Gandhi Non Violence Foundation (GNV) and all artists"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/IDoNVGM_18/IDoNVGM_18 - 09.webp",
+                  "title":"Mr. R.D.D. Gurnani with H.E. Mr. Pete Hoekstra, Ambassador of the United States to the Netherlands"
+               },
+               "right":{
+                  "path":"images/IDoNVGM_18/IDoNVGM_18 - 10.webp",
+                  "title":"The Indian dance group, students from the Shri Krishna School, Utrecht,Haagsche Schoolvereniging (HSV) and International School, The Hague with Dr. Kanta Rani, Ms. Vaijeyanthi Panchapagesan (Dance Teacher, The Hague), Dr. Saroj Thapa, H.E. Mr. Venu Rajamony, Ambassador of India,Mr. R.D.D. Gurnani and Ms. Warsha Kalidien (Dance Teacher, Utrecht)"
+               }
+            }
+         ]
+      },
+      {
+         "header":"Talk about Non-Violence and Mahatma Gandhi",
+         "location":"Sekolah Indonesia Den Haag (SIDH),Wassenaar",
+         "date":"Monday, 1st October 2018",
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/TaNaMG_SIDH_18/TaNaMG_SIDH_18_01.JPG",
+                  "title":"Welcoming address by Mr. Udik Ripul, Principal, Sekolah Indonesia Den Haag (SIDH)"
+               },
+               "right":{
+                  "path":"images/TaNaMG_SIDH_18/TaNaMG_SIDH_18_02.jpg",
+                  "title":"H.E. Mr. Venu Rajamony, Ambassador of India addressing the students about Non-Violence and Mahatma Gandhi at the Sekolah Indonesia Den Haag (SIDH)"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/TaNaMG_SIDH_18/TaNaMG_SIDH_18_03.jpg",
+                  "title":"H.E. Mr. Venu Rajamony, Ambassador of India, presenting medals to students of Sekolah Indonesia Den Haag (SIDH)"
+               },
+               "right":{
+                  "path":"images/TaNaMG_SIDH_18/TaNaMG_SIDH_18_04.jpg",
+                  "title":"Group photo of Sekolah Indonesia Den Haag (SIDH)"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/TaNaMG_SIDH_18/TaNaMG_SIDH_18_05.jpg",
+                  "title":"Student presenting flower to H.E. Mr. Venu Rajamony,Ambassador of India"
+               },
+               "right":{
+                  "path":"images/TaNaMG_SIDH_18/TaNaMG_SIDH_18_06.jpg",
+                  "title":"Mr. Fikri Cassidy, Deputy Chief of Mission, Embassy of Indonesia presenting a gift to H.E. Mr. Venu Rajamony, Ambassador of India with Mr. Udik Ripul, Principal, Sekolah Indonesia Den Haag (SIDH), Mr. R.D.D. Gurnani (Right) and Mr. Gunar Yadi, Vice Principal and Dr. Din Wahid, Cultural and Education Attache, Embassy of Indonesia (Left)"
+               }
+            }
+         ]
+      },
+      {
+         "header":"Meet & Greet Mr. Kailash Satyarthi, Noble Prize Winner",
+         "location":"World Trade Center ,The Hague",
+         "date":"Friday, 19th October 2018",
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/Nobel_Prize_Winner_18/Nobel_Prize_Winner_18_01.webp",
+                  "title":"Mr. Kailash Satyarthi, Nobel Prize Winner addressing the audience"
+               },
+               "right":{
+                  "path":"images/Nobel_Prize_Winner_18/Nobel_Prize_Winner_18_02.webp",
+                  "title":"Mr. Kailash Satyarthi, Nobel Prize Winner addressing the audience"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/Nobel_Prize_Winner_18/Nobel_Prize_Winner_18_03.webp",
+                  "title":"H.E. Mr. Venu Rajamony, Ambassador of India addressing the audience."
+               },
+               "right":{
+                  "path":"images/Nobel_Prize_Winner_18/Nobel_Prize_Winner_18_04.webp",
+                  "title":"Mr. Sudip Lahiri, Senior Vice President, HCL Technologies and Vice Chairman, NICCT presenting a bouquet to Mr. Kailash Satyarthi, Nobel Prize Winner"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/Nobel_Prize_Winner_18/Nobel_Prize_Winner_18_05.webp",
+                  "title":"Mr. R.D.D. Gurnani, President, The India Foundation (IF) with Mr. Kailash Satyarthi,Nobel Prize Winner and Mr. Sudip Lahiri, Senior Vice President,HCL Technologies and Vice Chairman, NICCT"
+               },
+               "right":{
+                  "path":"images/Nobel_Prize_Winner_18/Nobel_Prize_Winner_18_06.webp",
+                  "title":"Mr. R.D.D. Gurnani, President, The India Foundation (IF) with Mr. Kailash Satyarthi, Nobel Prize Winner"
+               }
+            }
+         ]
+      },
+      {
+         "header":"Inauguration of India Dans Festival",
+         "location":"KORZO,The Hague",
+         "date":"Friday, 19th October 2018",
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/Korzo_IDF_18/Korzo_IDF_18_01.webp",
+                  "title":"H.E. Mr. Venu Rajamony, Ambassador of India, lighting the traditional lamp, along with Mr. Leo Spreksel, Program Director - India Dans Festival, Korzo and Prof. Dr. Nirmala Sharma, Director, The Gandhi Centre"
+               },
+               "right":{
+                  "path":"images/Korzo_IDF_18/Korzo_IDF_18_02.webp",
+                  "title":"H.E. Mr. Venu Rajamony, Ambassador of India, addressing the audience"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/Korzo_IDF_18/Korzo_IDF_18_03.webp",
+                  "title":"Mr. R.D.D. Gurnani with H.E. Mr. Venu Rajamony, Ambassador of India and Mr. Leo Spreksel, Program Director - India Dans Festival, Korzo"
+               },
+               "right":{
+                  "path":"images/Korzo_IDF_18/Korzo_IDF_18_04.webp",
+                  "title":"Mr. R.D.D. Gurnani with Mr. P. Unnikrishnan,Carnatic Music Vocalist and Renowned Playback Singer"
+               }
+            }
+         ]
+      },
+      {
+         "header":"Mobility of Skills Between India-Europe",
+         "location":"Province House ,Utrecht",
+         "date":"Wednesday, 19th December 2018",
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-01.webp",
+                  "title":"Mr. Ram Lakhina, President Emeritus FCCI, Mr. Jasbir Singh, President FCCI and FIDE Mr. Jan Zuidema, Head of Invest Utrecht, Mr. R.D.D. Gurnani, President, The India Foundation (IF), Dr. Ajay Bailey, Assistant Professor Transnational Mobilities, International Development Studies, Department of Human Geography and Spatial Planning, Utrecht University and Ms. Sanchi Tibrewala, Trustee FCCI"
+               },
+               "right":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-02.webp",
+                  "title":"Mr. Jan Zuidema, Head of Invest Utrecht, Mr. Jasbir Singh, President FCCI and FIDE,H.E. Mr. Pim van der Berg, Vice-Governor, Province of Utrecht and Mr. R.D.D. Gurnani, President, The India Foundation (IF)"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-03.webp",
+                  "title":"Opening words by Mr. Jasbir Singh, President, FCCI and FIDE"
+               },
+               "right":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-04.webp",
+                  "title":"Mobility of Skills Between India-Europe, Province House, Utrecht- 19th December 2018"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-05.webp",
+                  "title":"Address by the Chief Guest, H.E. Mr. Pim van der Berg, Vice-Governor, Province of Utrecht"
+               },
+               "right":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-06.webp",
+                  "title":"Address by Dr. Luther M. Rangreji, Counsellor (Legal), Embassy of India"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-07.webp",
+                  "title":"Theme presentation “Mobility of skills between India - Europe - role of Indian diaspora” by Mr. Ram Lakhina, President Emeritus FCCI"
+               },
+               "right":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-08.webp",
+                  "title":"Mobility of skills - Why Utrecht Province?” by Mr. R.D.D. Gurnani, FCCI Trustee, President - The India Foundation (IF), Utrecht"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-09.webp",
+                  "title":"Mobility of skills - Why Utrecht Province?” by Mr. R.D.D. Gurnani, FCCI Trustee, President - The India Foundation (IF), Utrecht"
+               },
+               "right":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-10.webp",
+                  "title":"Creating functional prototype of the circular skills ecosystem in Utrecht through , Indo-Dutch collaboration” by Dr. Ajay Bailey, Assistant Professor Transnational Mobilities,International Development Studies, Department of Human Geography and Spatial Planning, Utrecht University"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-11.webp",
+                  "title":"Mr. R.D.D. Gurnani, President, The India Foundation (IF) with Mr. Manohar Gangesh, Chargé d\"affaires Embassy of India"
+               },
+               "right":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-12.webp",
+                  "title":"Panel Discussion with Ms. Usha Doekhi, Chairperson Hindustani Council & Member Indian Diaspora Council"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-13.webp",
+                  "title":"Bollywood Classic, a fusion of Bollywood moves and Indian folk dance by\"Naach2bollywood Beats\""
+               },
+               "right":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-14.webp",
+                  "title":"Urban Bollywood, a combination of Bollywood and street style dancing by Delftse Dance Crew"
+               }
+            },
+            {
+               "left":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-15.webp",
+                  "title":"Networking"
+               },
+               "right":{
+                  "path":"images/MoSBIE_2018/MoSBIE_2018-16.webp",
+                  "title":"Mr. Dinesh Gurnani, Mr. Satish Sewraj ,Hindi Teacher (IF),Ms. Sadhana Sewraj Mishra and Mr. R.D.D. Gurnani, President, The India Foundation (IF)"
+               }
+            }
+         ]
+      }
+   ],
+   "2017":[
+      {
+         "header":"Indian community getting ready to welcome PM Modi in Netherlands",
+         "date":"Tuesday, 27th June 2017",
+         "mainImage":{
+            "path":"images/pm_modi/modi_new.webp",
+            "title":"Mr. R.D.D. Gurnani with Hon'ble Prime Minister of India, Shri Narendra Modi"
+         },
+         "imagePairs":[
+            {
+               "left":{
+                  "link":"http://www.financialexpress.com/india-news/narendra-modi-in-netherlands-amsterdam-live-updates-donald-trump-modi-meet-us-pm-to-meet-dutch-premier-mark-rutte-economy-investment-high-on-agenda/737412/",
+                  "path":"images/pm_modi/fin_exp.webp",
+                  "title":""
+               },
+               "right":{
+                  "link":"https://www.youtube.com/watch?v=WNgAYMoww88",
+                  "path":"images/pm_modi/amb_int.webp",
+                  "title":"Exclusive with Indian Ambassador to the Netherlands"
+               }
+            }
+         ]
+      },
+      {
+         "header":"International Day of Non-Violance Observed Across the World",
+         "location":"",
+         "date":"Sunday, 1st October 2017 ",
+         "imagePairs":[
+            {
+               "left":{
+                  "title":"Gandhi March in The Netherlands on Sunday, 1st October 2017,  From Peace Palace to Grote Kerk (The Hague)",
+                  "link":"https://www.youtube.com/watch?v=johMQUPV8pc",
+                  "path":"images/idnv_play.webp"
+               },
+               "right":{
+                  "title":"In Exhibition at Grote Kerk (The Hague): Bicycle used by Mahatma Gandhi (1928),  Mr. R.D.D. Gurnani with H.E. Mr. Venu Rajamony, Ambassador of India",
+                  "path":"images/gandhi_bike.webp"
+               }
+            }
+         ]
+      },
+      {
+         "header":"Opening of International Commission on Missing Persons (ICMP)",
+         "location":"Headquarters &nbsp; and &nbsp; state-of-the-art &nbsp; DNA &nbsp; laboratory, The &nbsp; Hague",
+         "date":"Tuesday, 24th October 2017",
+         "mainImage":{
+            "path":"images/icmp/icmp_new.webp",
+            "title":"Mr. R.D.D. Gurnani with Hon'ble Minister Mr. Bert Koenders, Minister of Foreign Affairs of the Netherlands"
+         },
+         "imagePairs":[
+            
+         ]
+      },
+      {
+         "header":"Commonwealth War Graves Commission Netherlands Joint Committee",
+         "location":"Service of Rememberance,Westduin &nbsp; Cemetery, The &nbsp; Hague",
+         "date":"Sunday, 12th November 2017",
+         "imagePairs":[
+            {
+               "left":{
+                  "path":"images/commonwealth/img1.webp",
+                  "title":"H.E. Mr. Venu Rajamony, Ambassador of India,Addressing the audience"
+               },
+               "right":{
+                  "title":"Mr. R.D.D. Gurnani with H.E. Mr. Venu Rajamony,Ambassador of India, at 'India in World War I' Photo Exhibition ",
+                  "path":"images/commonwealth/img3.webp"
+               }
+            },
+            {
+               "left":{
+                  "title":"Mr. R.D.D. Gurnani with Air Commodore Shiv Ratan Singh VM VSM",
+                  "path":"images/commonwealth/img4.webp"
+               }
+            }
+         ]
+      }
+   ]
 }
